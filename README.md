@@ -1,2 +1,0 @@
-# TMUX
-TMUX INFO
