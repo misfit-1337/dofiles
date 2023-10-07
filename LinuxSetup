@@ -8,3 +8,8 @@ apt update && apt-get upgrade
 apt install tmux
 apt install ovpn
 apt install thefuck
+
+Reporting / Documentation:
+https://github.com/pwndoc/pwndoc
+https://github.com/flameshot-org/flameshot
+https://github.com/phw/peek
